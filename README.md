@@ -1,8 +1,12 @@
-# Data Camp Projects
+# Data Analysis Projects
 
-  1. [Generate Keywords for Google Ads](#generate-keywords-for-google-ads)
-  2. [Exploring the History of Lego](#exploring-the-history-of-lego)
+  1. [Introduction](#Introduction)
+  2. [Generate Keywords for Google Ads](#generate-keywords-for-google-ads)
+  3. [Exploring the History of Lego](#exploring-the-history-of-lego)
 
+## Introduction
+As I work on getting a Data Analyst Certificate from Data Camp. I plan on working on more Analysis type projects and show case my work. 
+The structure of this repo is simple. Each file will have a Jupyter Notebook and a dataset file or folder (depending on the number of datasets used) 
 ## Generate Keywords for Google Ads
 **The brief**: The client is generally a low-cost retailer, offering many promotions and discounts. We will need to focus on such keywords. We will also need to move away from luxury keywords and topics, as we are targeting price-sensitive customers. Because we are going to be tight on budget, it would be good to focus on a tightly targeted set of keywords and make sure they are all set to exact and phrase match.
 
